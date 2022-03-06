@@ -1,0 +1,10 @@
+####################
+DATABASE:
+  AUTH:
+    URI: "mongodb://localhost" # Example URL with password: mongodb://username:password@localhost
+  NAME: "Bunkers"
+  COLLECTIONS:
+    INFORMATION: "Information"
+    TEAMS: "Teams"
+    PROFILES: "Profiles"
+####################
